@@ -2,7 +2,7 @@ export default [
   {
     id: "100",
     title: "Pilsen x 12 Und",
-    price: 58.00,
+    price: 68.00,
     offerPrice: null,
     stock: 12,
     img: "pilsenx12.jpg",
@@ -11,7 +11,7 @@ export default [
   {
     id: "101",
     title: "Cristal x 12 Und",
-    price: 53.00,
+    price: 68.00,
     offerPrice: null,
     stock: 12,
     img: "cristalx12.jpg",
@@ -20,7 +20,7 @@ export default [
   {
     id: "102",
     title: "Cusqueña Trigo x 12 Und",
-    price: 63.00,
+    price: 72.00,
     offerPrice: null,
     stock: 12,
     img: "cusqueñax12.jpg",
@@ -29,7 +29,7 @@ export default [
   {
     id: "103",
     title: "Queirolo Acholado 750ml + Evervess 1.5Lt + Hielo",
-    price: 40.00,
+    price: 38.00,
     offerPrice: null,
     stock: 12,
     img: "promo-acholado-queirolo.jpg",
@@ -38,7 +38,7 @@ export default [
   {
     id: "104",
     title: "Ron Bacardi Carta de Oro 750ml + Pepsi 2Lt + Hielo",
-    price: 30.00,
+    price: 33.00,
     offerPrice: 28.00,
     stock: 12,
     img: "promo-bacardi-750.jpg",
