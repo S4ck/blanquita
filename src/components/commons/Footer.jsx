@@ -7,7 +7,7 @@ function Footer() {
         <Text>2021 Todos los Derechos Reservados</Text>
 
         <Stack isInline>
-          <a href="https://www.facebook.com/Cevicheria-D-Ingrid-470615666611723">
+          <a href="https://www.facebook.com/profile.php?id=61553020971456">
             <Icon name="facebook" mx="2" />
           </a>
           <a href="https://instagram.com">
