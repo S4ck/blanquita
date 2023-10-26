@@ -33,6 +33,7 @@ const theme = {
     ...chakraTheme.icons,
     logo: {
       path: (
+        */
         <svg width="3000" height="3163" viewBox="0 0 3000 3163" fill="none" xmlns="http://www.w3.org/2000/svg">
           <rect width="3000" height="3162.95" fill="none" />
           <path
@@ -40,6 +41,7 @@ const theme = {
             fill="currentColor"
           />
         </svg>
+        /*
       ),
       viewBox: "0 0 3000 3163",
     },
