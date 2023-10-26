@@ -125,7 +125,7 @@ export default [
     img: "tabernero-borgoña.jpg",
     category: "licores",
   },
-  {
+  /**{
     id: "114",
     title: "Ceviche Mixto",
     price: 8.50,
@@ -532,11 +532,11 @@ export default [
     img: "muffin3.jpg",
     category: "postres",
   },
-
+*/
   {
     id: "Gaseosa Helada/ sin Helar",
     title: "Coca Cola 1Lt",
-    price: 9.00,
+    price: 5.00,
     offerPrice: null,
     stock: 12,
     img: "cocacola1lt.jpg",
@@ -546,7 +546,7 @@ export default [
   {
     id: "Gaseosa Helada / Sin Helar",
     title: "Inca Kola 1 Lt",
-    price: 8.50,
+    price: 5.00,
     offerPrice: null,
     stock: 12,
     img: "incakola1lt.jpg",
@@ -582,7 +582,7 @@ export default [
     img: "coffe4.jpg",
     category: "otros",
   },
-  {
+  /**{
     id: "condiciones",
     title: "Condiciones de Uso",
     price: 0.0,
@@ -591,4 +591,5 @@ export default [
     img: "condiciones.png",
     category: "otros",
   },
+  */
 ];
